@@ -1,0 +1,13 @@
+title: Site
+
+sections:
+  pages:
+    type: pages
+  mainfields:
+    type: fields
+    fields:
+      call_my_command:
+        type: janitor
+        #command: 'example --data test'
+        command: 'janitor:job --key example --data test'
+        label: Call `Example` Command
