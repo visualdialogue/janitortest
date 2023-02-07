@@ -1,3 +1,10 @@
+# vd
+# -----------
+.DS_Store
+node_modules
+makeitso.php
+/public/site/controllers/cache/*
+
 # System files
 # ------------
 
